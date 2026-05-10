@@ -43,3 +43,16 @@ The project includes three separate Power BI canvases that present insights rela
 
 This project demonstrates a complete analytics pipeline starting from raw data collection and preprocessing to database management and business intelligence visualization using Power BI.
 
+
+
+
+## Dashboard Preview
+
+### Canvas 1
+![Canvas 1](Canvas_1.png)
+
+### Canvas 2
+![Canvas 2](Canvas_2.png)
+
+### Canvas 3
+![Canvas 3](Canvas_3.png)
